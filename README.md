@@ -1,1 +1,3 @@
 # TakingTheLAdventureProject
+
+"Taking the L" is an decision-based Adventure game where you collect items at various train stations across the Chicagoland area by riding the CTA "L" train. You are helping Lee Crooks, the "Voice of the CTA" collect them in order to help him with his new recordings for a upcoming CTA projects. Since items are located at various stations, you have to decide to whether to get off the train or continue riding. The goal is to collect 5 items across a various amount of stations (10 to 14). There are some tricks along the way that could influence your decision. Future additions are to be added.
